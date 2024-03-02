@@ -1,0 +1,6 @@
+**/credentials.ts
+**/.env
+**/node_modules/
+**/.vs/
+**/bin/
+**/obj/
